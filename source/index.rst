@@ -9,7 +9,7 @@ Welcome to bigbob's documentation!
 .. toctree::
    :maxdepth: 2
 
-   Pivo
+   Заголовок1
 
 Indices and tables
 ==================
