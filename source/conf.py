@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'bigbob'
+project = 'SUN9000'
 copyright = '2022, Den'
 author = 'Den'
 
