@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'SUN9000'
-copyright = '2022, Den'
-author = 'Den'
+copyright = '2022, SUN9000'
+author = 'Den Chugaev'
 
 # The full version, including alpha/beta/rc tags
-release = 'Now'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
